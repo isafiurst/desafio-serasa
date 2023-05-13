@@ -1,5 +1,5 @@
 
-import SimularCredito from "../support/Page"
+import SimularCredito from "../support/Pages"
 import 'cypress-mochawesome-reporter/register'
 
 describe('desafio-tecnico', () => {
