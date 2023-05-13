@@ -1,0 +1,4 @@
+O componente de seleção do mês se comporta de maneira estranha:
+Ao selecionar um valor, ele vai primeiro para o meio e depois para o valor selecionado.
+EX: Selecione o valor 12 meses e observe que o controle deslizante vai para 24 meses e volta rapidamente para 12 meses.
+Isso só acontece na primeira vez que usamos o componente.
