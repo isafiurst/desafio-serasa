@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
-    "cypress:report": "cypress run --e2e"
+    "cypress:report": "cypress run --e2e",
+    "cypress:run": "cypress run --browser chrome"
   },
   "keywords": [],
   "author": "",
